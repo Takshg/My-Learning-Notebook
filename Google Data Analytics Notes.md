@@ -8,7 +8,7 @@
 
 [Google Data Analytics Certificate Glossary .pdf](Google%20Data%20Analytics%20Notes%20d65b2be9d9c54f4daab42d4f03bbe293/Google_Data_Analytics_Certificate_Glossary_.pdf)
 
-[Course 1: Foundations: Data, Data, Everywhere](Google%20Data%20Analytics%20Notes%20d65b2be9d9c54f4daab42d4f03bbe293/Course%201%20Foundations%20Data,%20Data,%20Everywhere%20e5ffa871113746618848105c9bbc8da6.md)
+[Course 1: Foundations: Data, Data, Everywhere](Google%20Data%20Analytics%20Notes%20d65b2be9d9c54f4daab42d4f03bbe293/Course%201%20Foundations%20Data,%20Data,%20Everywhere.md)
 
 [Course 2: Ask Questions to Make Data Driven Decisions](Google%20Data%20Analytics%20Notes%20d65b2be9d9c54f4daab42d4f03bbe293/Course%202%20Ask%20Questions%20to%20Make%20Data%20Driven%20Decisio%208e280714464a41388750af55477d8ec4.md)
 
